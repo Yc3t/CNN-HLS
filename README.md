@@ -1,4 +1,4 @@
 # CNN-HLS
 CNN in FPGA
 
-![CNN](img/NN.png)
+<img src="img/NN.png" width=auto height="700">
